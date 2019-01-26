@@ -24,6 +24,10 @@ body {
   padding-top: 2em;
 }
 
+#index-link {
+  text-align: left;
+}
+
 #click-me {
   background-color: palevioletred;
   font-size: 0.8em;
@@ -33,6 +37,8 @@ body {
 a:link, a:visited, a:hover {
   text-decoration: underline;
   color: palevioletred;
+  margin-bottom: 0.5em;
+  display: block;
 }
 
 .lovely {
