@@ -12,6 +12,11 @@ body {
   margin: 1em;
 }
 
+img {
+  height: auto;
+  width: 30%;
+}
+
 .lovely {
   color: palevioletred;
 }
@@ -23,15 +28,9 @@ body {
 
 /* Mobile Styles */
 @media all and (max-width: 600px) {
-  #questions {
-    font-weight: bold 700;
-    padding: 0.5em 0.5em;
-    font-size: 1em;
-  }
+
 }
 
 @media all and (max-width: 900px) {
-  .hey-you {
-    padding-top: 0.5em;
-  }
+  
 }
