@@ -35,6 +35,10 @@ a:link, a:visited, a:hover {
   color: palevioletred;
 }
 
+.lovely {
+  color: palevioletred;
+}
+
 #footer {
   padding-top: 10em;
   font-size: 0.7em;
