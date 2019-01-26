@@ -18,26 +18,6 @@ body {
   font-size: 2em;
 }
 
-#index-link {
-  padding-left: 2em;
-  padding-top: 1em;
-  text-align: left;
-  font-size: 2em;
-}
-
-#click-me {
-  background-color: palevioletred;
-  font-size: 0.8em;
-  color: #fff;
-}
-
-a:link, a:visited, a:hover {
-  text-decoration: underline;
-  color: palevioletred;
-  margin-bottom: 0.5em;
-  display: block;
-}
-
 .lovely {
   color: palevioletred;
 }
