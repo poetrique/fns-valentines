@@ -28,9 +28,14 @@ img {
 
 /* Mobile Styles */
 @media all and (max-width: 600px) {
-
+  img {
+    width: 100%;
+  }
 }
 
 @media all and (max-width: 900px) {
+  img {
+    width: 60%;
+  }
   
 }
