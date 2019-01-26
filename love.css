@@ -24,6 +24,11 @@ body {
   padding-top: 2em;
 }
 
+#click-me {
+  font-family: fantasy;
+  color: palevioletred;
+}
+
 /* Mobile Styles */
 @media all and (max-width: 600px) {
   #questions {
