@@ -1,2 +1,11 @@
+/* Bootstrap 4 */
 @import url('https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.4/css/bootstrap.min.css');
+/* FontAwesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+/* Font */
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script:400,700');
+
+/* Main Styles */
+body {
+  text-align: center;
+}
