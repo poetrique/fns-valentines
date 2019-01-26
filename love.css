@@ -18,13 +18,19 @@ h1, h3, #footer {
   font-family: 'Dancing Script', cursive;
 }
 
+p {
+  font-family: 'EB Garamond', serif;
+}
+
 img {
   height: auto;
   width: 30%;
 }
 
-.lovely {
-  color: palevioletred;
+.info {}
+
+.key {
+  color: #cc3c3c;
 }
 
 #social {
