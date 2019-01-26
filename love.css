@@ -21,6 +21,10 @@ img {
   color: palevioletred;
 }
 
+#social {
+  margin: 1em;
+}
+
 #footer {
   padding-top: 10em;
   font-size: 0.7em;
