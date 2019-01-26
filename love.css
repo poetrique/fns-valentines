@@ -27,7 +27,9 @@ img {
   width: 30%;
 }
 
-.info {}
+.info {
+  padding: 2em;
+}
 
 .key {
   color: #cc3c3c;
