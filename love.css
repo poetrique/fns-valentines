@@ -32,3 +32,9 @@ body {
     padding: 0.5em 0.5em;
   }
 }
+
+@media all and (max-width: 900px) {
+  .hey-you {
+    padding-top: 0.5em;
+  }
+}
