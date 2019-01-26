@@ -13,5 +13,13 @@ body {
 }
 
 #questions {
+  font-weight: bold 700;
+  font-size: 3em;
   padding: 1.5em;
+}
+
+.hey-you {
+  color: palevioletred;
+  font-size: 2em;
+  padding-top: 2em;
 }
