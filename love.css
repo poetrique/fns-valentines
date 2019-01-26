@@ -12,12 +12,6 @@ body {
   margin: 1em;
 }
 
-#questions {
-  font-weight: bold 700;
-  padding: 0.5em 1.5em;
-  font-size: 3em;
-}
-
 .hey-you {
   color: palevioletred;
   padding-top: 1em;
