@@ -23,3 +23,12 @@ body {
   font-size: 2em;
   padding-top: 2em;
 }
+
+/* Mobile Styles */
+@media all and (max-width: 600px) {
+  #questions {
+    font-weight: bold 700;
+    font-size: 1em;
+    padding: 0.5em 0.5em;
+  }
+}
